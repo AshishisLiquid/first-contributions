@@ -4237,5 +4237,5 @@
 - [Lukmannudin](https://github.com/Lukmannudin)
 - [Bandit Silachai](https://github.com/9MZa/)
 - [Jotiraditya Banerjee] (https://github.com/JotiradityaB)
-
+- [Ashish Pise](https://github.com/AshishisLiquid)
 <!-- prettier-ignore-end -->
